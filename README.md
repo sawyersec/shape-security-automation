@@ -27,3 +27,5 @@ Method: POST
   ]
 }
 ```
+
+# VIEW MORE ROUTES AVIALABLE AT: __http://127.0.0.1:8000/docs__ (GET)
